@@ -4,3 +4,6 @@ D:\Project\Pattern\StrategyPattern\Duck\Duck\bin\Debug\Duck.exe
 D:\Project\Pattern\StrategyPattern\Duck\Duck\bin\Debug\Duck.pdb
 D:\Project\Pattern\StrategyPattern\Duck\Duck\obj\Debug\Duck.exe
 D:\Project\Pattern\StrategyPattern\Duck\Duck\obj\Debug\Duck.pdb
+D:\Git\Pattern\StrategyPattern\Duck\Duck\bin\Debug\Duck.exe.config
+D:\Git\Pattern\StrategyPattern\Duck\Duck\obj\Debug\Duck.exe
+D:\Git\Pattern\StrategyPattern\Duck\Duck\obj\Debug\Duck.pdb
