@@ -1,0 +1,6 @@
+D:\Project\Pattern\StrategyPattern\Duck\Duck\bin\Debug\Duck.exe.config
+D:\Project\Pattern\StrategyPattern\Duck\Duck\obj\Debug\Duck.csprojResolveAssemblyReference.cache
+D:\Project\Pattern\StrategyPattern\Duck\Duck\bin\Debug\Duck.exe
+D:\Project\Pattern\StrategyPattern\Duck\Duck\bin\Debug\Duck.pdb
+D:\Project\Pattern\StrategyPattern\Duck\Duck\obj\Debug\Duck.exe
+D:\Project\Pattern\StrategyPattern\Duck\Duck\obj\Debug\Duck.pdb
