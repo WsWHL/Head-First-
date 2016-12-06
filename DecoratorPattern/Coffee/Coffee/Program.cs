@@ -14,9 +14,12 @@ namespace Coffee
         static void Main(string[] args)
         {
             Beverage beverage = new Espresso();
+            beverage.setSize(Capacity.Small);   //小杯咖啡
+            beverage = new Whip(beverage);
 
             Console.WriteLine(beverage.getDescription() + "：" + beverage.cost());
             Beverage house = new HouseBlend();
+            house.setSize(Capacity.Large);     //中杯咖啡
             house = new Mocha(house);
             house = new Mocha(house);
             house = new Whip(house);

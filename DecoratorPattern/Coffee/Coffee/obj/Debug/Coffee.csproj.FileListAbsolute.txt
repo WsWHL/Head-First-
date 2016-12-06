@@ -7,3 +7,6 @@ D:\Project\Pattern\DecoratorPattern\Coffee\Coffee\obj\Debug\Coffee.pdb
 D:\Git\Pattern\DecoratorPattern\Coffee\Coffee\bin\Debug\Coffee.exe.config
 D:\Git\Pattern\DecoratorPattern\Coffee\Coffee\obj\Debug\Coffee.exe
 D:\Git\Pattern\DecoratorPattern\Coffee\Coffee\obj\Debug\Coffee.pdb
+D:\Git\Pattern\DecoratorPattern\Coffee\Coffee\bin\Debug\Coffee.exe
+D:\Git\Pattern\DecoratorPattern\Coffee\Coffee\bin\Debug\Coffee.pdb
+D:\Git\Pattern\DecoratorPattern\Coffee\Coffee\obj\Debug\Coffee.csprojResolveAssemblyReference.cache
