@@ -21,9 +21,28 @@ namespace Coffee.CondimentDecorators
             return beverage.getDescription() + "，Whip";
         }
 
+        public override Capacity getSize()
+        {
+            return beverage.getSize();
+        }
+
         public override double cost()
         {
-            return beverage.cost() + 1.2;
+            double result = beverage.cost();
+            switch (beverage.getSize())
+            {
+                case Capacity.Small:
+                    result += 1.0;
+                    break;
+                case Capacity.Centre:
+                    result += 1.2;
+                    break;
+                case Capacity.Large:
+                    result += 1.5;
+                    break;
+            }
+
+            return result;
         }
     }
 }

@@ -32,13 +32,33 @@ namespace Coffee.CondimentDecorators
             return beverage.getDescription() + "，Mocha";
         }
 
+        public override Capacity getSize()
+        {
+            return beverage.getSize();
+        }
+
+
         /// <summary>
         /// 添加调料的价格
         /// </summary>
         /// <returns></returns>
         public override double cost()
         {
-            return beverage.cost() + 0.2;
+            double result = beverage.cost();
+            switch (beverage.getSize())
+            {
+                case Capacity.Small:
+                    result += 0.2;
+                    break;
+                case Capacity.Centre:
+                    result += 0.5;
+                    break;
+                case Capacity.Large:
+                    result += 0.8;
+                    break;
+            }
+
+            return result;
         }
     }
 }
