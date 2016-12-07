@@ -4,6 +4,3 @@ D:\Project\Pattern\ObserverPattern\Weather\Weather\bin\Debug\Weather.exe
 D:\Project\Pattern\ObserverPattern\Weather\Weather\bin\Debug\Weather.pdb
 D:\Project\Pattern\ObserverPattern\Weather\Weather\obj\Debug\Weather.exe
 D:\Project\Pattern\ObserverPattern\Weather\Weather\obj\Debug\Weather.pdb
-D:\Git\Pattern\ObserverPattern\Weather\Weather\bin\Debug\Weather.exe.config
-D:\Git\Pattern\ObserverPattern\Weather\Weather\obj\Debug\Weather.exe
-D:\Git\Pattern\ObserverPattern\Weather\Weather\obj\Debug\Weather.pdb
